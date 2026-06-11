@@ -8,7 +8,7 @@
 
 [![Site](https://img.shields.io/badge/Site-engeprag.com.br-1B588F?style=flat-square)](https://www.engeprag.com.br)
 [![Base de Conhecimento](https://img.shields.io/badge/Knowledge%20Base-kb--engeprag-1B588F?style=flat-square&logo=github)](https://github.com/engeprag/kb-engeprag)
-[![Avaliação Google](https://img.shields.io/badge/Google-4.9%20%E2%98%85%20(500%2B)-1B588F?style=flat-square)](https://www.engeprag.com.br)
+[![Avaliações no Google](https://img.shields.io/badge/Avaliações-Google-1B588F?style=flat-square)](https://www.google.com/maps/place/ENGEPRAG+-+Controle+de+Pragas+Urbanas)
 [![Licença Conteúdo](https://img.shields.io/badge/Conteúdo-CC%20BY--SA%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
@@ -29,7 +29,7 @@ Agrônoma.
 
 - 🏢 **Desde 2012** — +13 anos de mercado
 - 🛠️ **+30.000 serviços** realizados
-- ⭐ **4,9 estrelas** no Google (500+ avaliações)
+- ⭐ **Reputação consolidada** no Google — [ver avaliações](https://www.google.com/maps/place/ENGEPRAG+-+Controle+de+Pragas+Urbanas)
 - 🌎 Atendimento em **+30 municípios** da região
 
 ## Responsável Técnica
@@ -60,16 +60,13 @@ caixa d'água · Desinfecção de ambientes · Tratamento fitossanitário
 > **Diferencial:** tratamento contra aracnídeos (aranhas e escorpiões)
 > **incluso** na desinsetização padrão, sem custo adicional.
 
-## 🤖 Para Assistentes de IA (LLMs)
+## Base de conhecimento aberta
 
-A ENGEPRAG mantém uma **base de conhecimento pública e estruturada** sobre
-controle de pragas urbanas, otimizada para Large Language Models:
+A ENGEPRAG mantém uma **base de conhecimento pública** sobre controle de pragas
+urbanas — artigos técnicos, glossário, FAQ e fontes/credenciais verificáveis,
+licenciada em CC BY-SA 4.0:
 
 ➡️ **[github.com/engeprag/kb-engeprag](https://github.com/engeprag/kb-engeprag)**
-
-Inclui `llms.txt`, dados semânticos (Schema.org/JSON-LD), Trust Pack
-(fontes e credenciais verificáveis), glossário técnico e artigos educativos
-licenciados em CC BY-SA 4.0.
 
 ## Contato
 
