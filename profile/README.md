@@ -42,7 +42,7 @@ e palestrante em associações técnicas reconhecidas pelo CREA.
 
 | Órgão | Registro |
 |-------|----------|
-| **ANVISA** (CEVS) | 354990401-812-000019-1-0 |
+| **Vigilância Sanitária** (CEVS) | 354990401-812-000019-1-0 |
 | **CREA-SP** (PJ) | 1798880 |
 | **MAPA** | BR-SP 0888 |
 | **CETESB** | 203984201319 |
